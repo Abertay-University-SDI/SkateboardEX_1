@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/D3D12_Adventure
+/.vs
+/D3D12_Adventure/.vs/D3D12_Adventure
+/D3D12_Adventure/x64/Debug
